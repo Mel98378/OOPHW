@@ -63,7 +63,7 @@ class Fraction
     Student();
 
     // CONSTANT MEMBER FUNCTIONS
-    char getfname (void) const;
+    char getfname (void);
     char getlname (void) const;
     int getstuID (void) const;
     int getGPA (void) const;
